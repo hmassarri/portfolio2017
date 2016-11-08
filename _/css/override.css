@@ -1,0 +1,89 @@
+/* Override Materialize Styles */
+
+html #homepage {
+    background: url(../../img/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* =Footer (sticky footer)
+============================= */
+footer {
+    height: 100%;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+
+
+/* =Nav, Side-Nav, Nav-Mobile
+============================== */
+
+nav ul li.active {
+    background-color: #666666;
+}
+
+/* side-vav #nav-mobile */
+.side-nav a:hover {
+    background-color: #1E88E5;
+}
+.side-nav li {
+    line-height: 64px;
+}
+
+/* waves */
+.waves-effect.waves-blue .waves-ripple {
+    background-color: rgba(129, 212, 250, 0.85);
+}
+.dropdown-content li > a, .dropdown-content li > span {
+    color: #000000;
+}
+.dropdown-content li > a:hover, .dropdown-content li > span:hover {
+    background-color: #666666;
+    color: #FFFFFF;
+}
+.side-nav .collapsible-header:hover, .side-nav.fixed {
+    background-color: #1E88E5;
+}
+.side-nav li > a > i, .side-nav li > a > [class^="mdi-"], .side-nav li > a > [class*="mdi-"], .side-nav li > a > i.material-icons {
+    line-height: 64px;
+}
+.side-nav .divider {
+    background-color: #222222;
+}
+.side-nav .subheader {
+    font-size: 110%;
+    color: #CCC;
+}
+
+/* =PushPin side scroller fixed
+============================== */
+.toc-wrapper {
+    margin-top: 0px;
+    position: relative;
+}
+.pin-top {
+    position: relative;
+  }
+.pinned {
+    position: fixed !important;
+  }
+
+
+/* =Breadcrumb
+============================== */
+.breadcrumb::before {
+    color: #000000
+}
+
+
+@media screen ()
