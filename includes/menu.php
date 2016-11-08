@@ -3,13 +3,13 @@
             <nav id="menu">
                 <div class="nav-wrapper black z-depth-3">
                    <div class="container">
-                        <a href="homepage.html" class="brand-logo">Some Company</a>
+                        <a href="index.php" class="brand-logo">Some Company</a>
 
                         <!-- Mobile Nav -->
                         <a href="#" data-activates="nav-mobile" class="button-collapse left"><i class="material-icons right">apps</i></a>
 
                         <ul class="right hide-on-med-and-down">
-                            <li><a class="waves-effect waves-light" href="blog.html">Blog</a></li>
+                            <li><a class="waves-effect waves-light" href="blog.php">Blog</a></li>
                             
                             <li><a class="waves-effect waves-light dropdown-button" href="#" data-activates="p-dropdown">Portfolio<i class="material-icons right">arrow_drop_down</i></a>
                                 <ul id="p-dropdown" class="dropdown-content">
@@ -33,7 +33,7 @@
                                 </div>
                             </li>
                             
-                            <li><a class="waves-effect waves-light white-text" href="blog.html">Blog</a></li>
+                            <li><a class="waves-effect waves-light white-text" href="blog.php">Blog</a></li>
                             
                             
                             <li>
