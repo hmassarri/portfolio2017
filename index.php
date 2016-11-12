@@ -3,8 +3,6 @@
 <body id="homepage">
     <?php require_once 'includes/menu.php'; ?>
         
-        <main>
-            
-        </main>
+        <main id="mainIndex"></main>
 
 <?php require_once 'includes/footer.php'; ?>
