@@ -1,6 +1,6 @@
     <header>
         <div class="navbar-fixed">
-            <nav id="menu">
+            <nav id="menu" class="top-nav">
                 <div class="nav-wrapper black z-depth-3">
                    <div class="container">
                         <a href="index.php" class="brand-logo">Some Company</a>
@@ -9,9 +9,9 @@
                         <a href="#" data-activates="nav-mobile" class="button-collapse left"><i class="material-icons right">apps</i></a>
 
                         <ul class="right hide-on-med-and-down">
-                            <li><a class="waves-effect waves-light" href="blog.php">Blog</a></li>
+                            <li id="blog"><a class="waves-effect waves-light" href="blog.php">Blog</a></li>
                             
-                            <li><a class="waves-effect waves-light dropdown-button" href="#" data-activates="p-dropdown">Portfolio<i class="material-icons right">arrow_drop_down</i></a>
+                            <li id="portfolio"><a class="waves-effect waves-light dropdown-button" href="#" data-activates="p-dropdown">Portfolio<i class="material-icons right">arrow_drop_down</i></a>
                                 <ul id="p-dropdown" class="dropdown-content">
                                     <li><a href="#">Web</a></li>
                                     <li><a href="#">Print</a></li>
@@ -19,15 +19,15 @@
                                 </ul>
                             </li>
                             
-                            <li><a class="waves-effect waves-light" href="#">Tutorials</a></li>
-                            <li><a class="waves-effect waves-light" href="#">Contact</a></li>
+                            <li id="tutorials"><a class="waves-effect waves-light" href="#">Tutorials</a></li>
+                            <li id="contact"><a class="waves-effect waves-light" href="#">Contact</a></li>
                         </ul>
                         
                         <ul id="nav-mobile" class="side-nav grey darken-4 ">
                             <li>
                                 <div class="userView">
                                     <div class="background"><img src="img/bg.jpg" alt=""></div>
-                                    <i class="material-icons">cloud</i>
+                                    <!--<i class="material-icons">cloud</i>-->
                                     <a href="#!name"><span class="white-text name">Hugo M.</span></a>
                                     <a href="#!email"><span class="white-text email">hugo@hugomassarri.com</span></a>
                                 </div>

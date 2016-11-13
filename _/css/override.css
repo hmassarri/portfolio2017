@@ -26,7 +26,9 @@ html #mainIndex {
     100%{background-position:0% 50%}
 }
 
+body {
 
+}
 /* =Footer (sticky footer)
 ============================= */
 footer {
@@ -107,9 +109,13 @@ nav ul li.active {
 
 /* =Blog 
 ============================== */
+#b-title {
+    background: url('../../img/bg.jpg') center no-repeat;
+}
 .card .card-image .card-title {
     background-color: #000000;
 }
+
 
 /* =Breadcrumb
 ============================== */
@@ -118,4 +124,53 @@ nav ul li.active {
 }
 
 
-@media screen ()
+@media (min-width: 0) and (max-width: 992px) {
+
+    html {
+        font-size: 1.5em;
+    }
+    
+    .card .card-title {
+        font-size: 2em;
+    }
+    
+    nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+        height: 120px;
+        line-height: 120px;
+    }
+    
+    .side-nav .userView .name, .side-nav .userView .email {
+        line-height: 100px;
+    }
+    .side-nav {
+        width: 700px;
+    }
+    
+    .side-nav a {
+        font-size: 2em;
+        font-weight: normal;
+        height: 120px;
+        line-height: 120px;
+    }
+    
+    .side-nav li {
+        line-height: 120px;
+    }
+    
+    .side-nav li > a > i, .side-nav li > a > [class^="mdi-"], .side-nav li > a > [class*="mdi-"], .side-nav li > a > i.material-icons {
+        line-height: 120px;
+    }
+    
+    nav .button-collapse i {
+    font-size: 4rem;
+    }
+    
+    #b-title {
+        margin-top: 50px;
+    }
+    
+    .card-content p, .card-action {
+        font-size: 1.4em;
+    }
+    
+}
