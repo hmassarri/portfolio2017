@@ -13,7 +13,7 @@
                             
                             <li id="portfolio"><a class="waves-effect waves-light dropdown-button" href="#" data-activates="p-dropdown">Portfolio<i class="material-icons right">arrow_drop_down</i></a>
                                 <ul id="p-dropdown" class="dropdown-content">
-                                    <li><a href="#">Web</a></li>
+                                    <li><a href="portfolio-web.php">Web</a></li>
                                     <li><a href="#">Print</a></li>
                                     <li><a href="#">Garage</a></li>
                                 </ul>
@@ -32,17 +32,15 @@
                                     <a href="#!email"><span class="white-text email">hugo@hugomassarri.com</span></a>
                                 </div>
                             </li>
-                            
+                            <li><a class="waves-effect waves-light white-text" href="index.php">Home</a></li>
                             <li><a class="waves-effect waves-light white-text" href="blog.php">Blog</a></li>
-                            
-                            
                             <li>
                                 <ul class="collapsible collapsible-accordion">
                                     <li>
                                         <a class="waves-effect waves-light white-text collapsible-header">Portfolio<i class="material-icons right white-text">arrow_drop_down</i></a>
                                         <div class="collapsible-body">
                                             <ul>
-                                                <li><a href="#">Web</a></li>
+                                                <li><a href="portfolio-web.php">Web</a></li>
                                                 <li><a href="#">Print</a></li>
                                                 <li><a href="#">Garage</a></li>
                                             </ul>            
@@ -51,7 +49,6 @@
                                 </ul>
                                 
                             </li>
-                            
                             <li><a class="waves-effect waves-light white-text" href="#">Tutorials</a></li>
                             <li><a class="waves-effect waves-light white-text" href="#">Contact</a></li>
                             <li><div class="divider"></div></li>
@@ -70,7 +67,6 @@
                                     </li>
                                 </ul>
                             </li>
-                            
                             <li>
                                 <ul class="collapsible collapsible-accordion">
                                     <li>
