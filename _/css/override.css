@@ -1,36 +1,130 @@
 /* Override Materialize Styles */
 
-html #mainIndex {
-  
-    background: linear-gradient(270deg, #FF0000, #0098FF, #FF0000);
-    background-size: 200% 200%;
 
-    -webkit-animation: AnimationName 55s ease infinite;
-    -moz-animation: AnimationName 55s ease infinite;
-    animation: AnimationName 55s ease infinite;
+/* =HTML Styles / Classes
+============================= */
+.light {
+    font-size: 12px;
+    font-weight: 500;
 }
- 
-@-webkit-keyframes AnimationName {
-    0%, 100% {background-position:0% 50%}
-    50%{background-position:100% 50%}
-    75%{background-position:0% 100%}
+.header {
+    color: #E91E63;
+    font-weight: 300;
+}
+.subheader {
+    color: #F06292;
+    font-weight: 300;
 }
 
-/*
-@-moz-keyframes AnimationName {
-    0%, 100% {background-position:0% 50%}
-    50%{background-position:100% 50%}
-    75%{background-position:0% 50%}
+/* =Gaps
+============================== */
+.gap-xs {
+    margin: 25px 0px;
 }
-@keyframes AnimationName { 
-    0%, 100% {background-position:0% 50%}
-    50%{background-position:100% 50%}
-    75%{background-position:0% 50%}
+
+.gap-small {
+    margin: 50px 0px;
 }
+
+.gap-medium {
+    margin: 100px 0px;
+}
+
+.gap-large {
+    margin: 200px 0px;
+}
+
+.gap-xl {
+    margin: 300px 0px;
+}
+
+
+/* =Gradient Loop
+============================= */
+/* infinite gradient loop
+http://jsfiddle.net/Svvift/7quvyphu/
 */
-body {
-
+body { }
+#mainIndex {
+    background: rgba(255, 0, 89, 1);
+    background: -webkit-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: -moz-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: -o-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background-size: 400% 400%;
+    -webkit-animation: bodySwirl 10s linear infinite;
+    -moz-animation: bodySwirl 10s linear infinite;
+    animation: bodySwirl 10s linear infinite;
+    height: 50vh;
+    opacity: 0.8;
 }
+@-webkit-keyframes bodySwirl {
+    0% {
+        background-position: 100% 0%
+    }
+    100% {
+        background-position: 15% 100%
+    }
+}
+@-moz-keyframes bodySwirl {
+    0% {
+        background-position: 100% 0%
+    }
+    100% {
+        background-position: 15% 100%
+    }
+}
+@keyframes bodySwirl {
+    0% {
+        background-position: 100% 0%
+    }
+    100% {
+        background-position: 15% 100%
+    }
+}
+
+
+#blogIndex {
+    background: rgba(255, 0, 89, 1);
+    background: -webkit-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: -moz-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: -o-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background: linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background-size: 400% 400%;
+    -webkit-animation: bodySwirl 10s linear infinite;
+    -moz-animation: bodySwirl 10s linear infinite;
+    animation: bodySwirl 10s linear infinite;
+    height: 10vh;
+    opacity: 0.8;
+}
+@-webkit-keyframes bodySwirl {
+    0% {
+        background-position: 100% 0%
+    }
+    100% {
+        background-position: 15% 100%
+    }
+}
+@-moz-keyframes bodySwirl {
+    0% {
+        background-position: 100% 0%
+    }
+    100% {
+        background-position: 15% 100%
+    }
+}
+@keyframes bodySwirl {
+    0% {
+        background-position: 100% 0%
+    }
+    100% {
+        background-position: 15% 100%
+    }
+}
+
+
 /* =Footer (sticky footer)
 ============================= */
 footer {
@@ -39,23 +133,44 @@ footer {
 footer.page-footer {
     margin-top: 0px;
 }
+.page-footer {
+    background-color: #FFFFFF;
+}
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-  }
-
-  main {
+}
+main {
     flex: 1 0 auto;
-  }
-
-
+}
+ul#playlist li {
+    display: inline !important;
+}
+.material-placeholder, .materialboxed {
+    display: inline !important;
+    margin-right: 5px;
+}
+.footer-border-top {
+    border-top: 1px solid #EEEEEE;
+}
+.footer-border-bottom {
+    border-bottom: 1px solid #EEEEEE;
+}
 
 /* =Nav, Side-Nav, Nav-Mobile
 ============================== */
 
-nav ul li.active {
-    background-color: #666666;
+/* // https://www.codeply.com/go/YSZPQp1wcB // */
+
+nav {
+    transition-duration: 1s;
+}
+.navbar-fixed {
+    z-index: 998;
+}
+.side-nav li>a:hover {
+    background-color: #F06292;
 }
 
 /* side-vav #nav-mobile */
@@ -64,18 +179,6 @@ nav ul li.active {
 }
 .side-nav li {
     line-height: 64px;
-}
-
-/* waves */
-.waves-effect.waves-blue .waves-ripple {
-    background-color: rgba(129, 212, 250, 0.85);
-}
-.dropdown-content li > a, .dropdown-content li > span {
-    color: #000000;
-}
-.dropdown-content li > a:hover, .dropdown-content li > span:hover {
-    background-color: #666666;
-    color: #FFFFFF;
 }
 .side-nav .collapsible-header:hover, .side-nav.fixed {
     background-color: #1E88E5;
@@ -90,9 +193,26 @@ nav ul li.active {
     font-size: 110%;
     color: #CCC;
 }
-#breadscrumbs nav{
-    box-shadow: none !important;
+
+
+/* =Materialize Overrides
+============================== */
+
+/* // waves // */
+.waves-effect.waves-blue .waves-ripple {
+    background-color: rgba(129, 212, 250, 0.85);
 }
+
+/* // dropdown // */
+.dropdown-content li > a, .dropdown-content li > span {
+    color: #000000;
+}
+.dropdown-content li > a:hover, .dropdown-content li > span:hover {
+    background-color: #666666;
+    color: #FFFFFF;
+}
+
+
 
 /* =PushPin side scroller fixed
 ============================== */
@@ -114,18 +234,97 @@ nav ul li.active {
 #b-title {
     background: url('../../img/bg.jpg') center no-repeat;
 }
-.card .card-image .card-title {
-    background-color: #000000;
-}
+
 
 
 /* =Breadcrumb
 ============================== */
 .breadcrumb::before {
-    color: #000000
+    color: #FFFFFF;
+    content: none;
+}
+.breadcrumb:last-child {
+    color: #F06292;
+}
+#breadscrumbs nav{
+    box-shadow: none !important;
+}
+.breadcrumb:link {
+    width: 100px;
+    background-color: none;
+    color: #F06292;
+    display: inline-block;
+    text-align: center;
+}
+
+.breadcrumb:hover, .breadcrumb:active {
+    background-color: #F06292;
+    color: #FFFFFF;
+}
+
+/* =Cards
+============================== */
+.card-medium {
+    height: auto;
+}
+.sr .one .two .three .four .five .six .seven .eight .nine {
+    visibility: hidden;
+    display: none;
+    perspective: 800px;
 }
 
 
+
+/* FORM CSS */
+/* label color */
+
+.input-field label {
+    color: #E91E63;
+}
+/* label focus color */
+
+.input-field input[type=text]:focus+label {
+    color: #E91E63;
+}
+/* label underline focus color */
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #E91E63;
+    box-shadow: 0 1px 0 0 #000;
+}
+/* valid color */
+
+.input-field input[type=text].valid {
+    border-bottom: 1px solid #E91E63;
+    box-shadow: 0 1px 0 0 #000;
+}
+/* invalid color */
+
+.input-field input[type=text].invalid {
+    border-bottom: 1px solid #E91E63;
+    box-shadow: 0 1px 0 0 #000;
+}
+/* icon prefix focus color */
+
+.input-field .prefix.active {
+    color: #E91E63;
+}
+
+
+/* =Social Media Icons
+============================== */
+.social:link {
+    width: 50px;
+    display: inline-block;
+
+}
+.social:hover, .social:active {
+    background-color: none;
+    color: none;
+}
+
+/* =Media Queries
+============================== */
 @media (min-width: 0) and (max-width: 992px) {
 
     /*
