@@ -74,12 +74,12 @@
 							</div>
 							<div class="col s12 m12 l6">
 								<p class="light right">
-                                    <a href="#" class="social"><img src="img/social/linkedin.png" width="32"/></a>
-								    <a href="#" class="social"><img src="img/social/apple1.png" width="32"/></a>
-								    <a href="#" class="social"><img src="img/social/github.png" width="32" /></a>
-								    <a href="#" class="social"><img src="img/social/instagram1.png" width="32" /></a>
-								    <a href="#" class="social"><img src="img/social/bandcamp.png" width="32" /></a>
-								    <a href="#" class="social"><img src="img/social/soundcloud.png" width="32" /></a>
+                                    <a href="https://www.linkedin.com/in/hmassarri" target="_blank" class="social"><img src="img/social/linkedin.png" width="32"/></a>
+								    <a href="https://www.apple.com" target="_blank" class="social"><img src="img/social/apple1.png" width="32"/></a>
+								    <a href="https://github.com/hmassarri/" target="_blank" class="social"><img src="img/social/github.png" width="32" /></a>
+								    <a href="https://www.instagram.com/bighbomb/" target="_blank" class="social"><img src="img/social/instagram1.png" width="32" /></a>
+								    <a href="https://theunidentified.bandcamp.com/" target="_blank" class="social"><img src="img/social/bandcamp.png" width="32" /></a>
+								    <img src="img/social/soundcloud.png" width="32" />
 								</p>
 							</div>
 						</div>

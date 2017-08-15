@@ -1,7 +1,12 @@
 <?php require_once 'includes/header.php'; ?>
 <?php require_once 'includes/navbar.php'; ?>
 
-	<main id="mainIndex">
+	<main id="mainIndex" class="valign-wrapper">
+        <div class="row">
+            <div class="div col s12 m12 l12">
+                <img src="img/chromelogopink.png" alt="HM chrome logo" style="opacity: 1; text-align: center;" />    
+            </div>
+        </div>
 		<!--
 		<div class="container">
 			
