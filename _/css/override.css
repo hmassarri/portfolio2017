@@ -50,13 +50,13 @@ body { }
     background: -moz-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
     background: -ms-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
     background: -o-linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
-    background: url('../../img/clouds35.png'), linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
-    background-size: 400% 400%;
+    background: url('../../img/clouds-stars35.png'), linear-gradient(45deg, rgba(255, 0, 89, 1) 0%, rgba(0, 179, 255, 1) 33%, rgba(255, 0, 89, 1) 66%, rgba(0, 179, 255, 1) 100%);
+    background-size: 200% 200%;
     -webkit-animation: bodySwirl 65s linear infinite;
     -moz-animation: bodySwirl 65s linear infinite;
     animation: bodySwirl 65s linear infinite;
     height: 50vh;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 @-webkit-keyframes bodySwirl {
     0% {
@@ -122,10 +122,6 @@ body { }
     }
 }
 
-.bg-1 {
-    background: url('../../img/08c5356917a4b9364325b32c6fcc1a6a.png') center no-repeat;
-}
-
 
 /* =Footer (sticky footer)
 ============================= */
@@ -158,6 +154,19 @@ ul#playlist li {
 }
 .footer-border-bottom {
     border-bottom: 1px solid #EEEEEE;
+}
+.flink {
+    font-size: 14px;
+    color: #454545;
+}
+.flink:hover {
+    color: #FFFFFF;
+    text-shadow: /* h-shadow v-shadow blur-radius color */
+        0 0 5px #FFFFFF,
+        0 0 6px #E91E63,
+        0 0 7px #FFFFFF,
+        0 0 8px #E91E63;
+    text-align: center;
 }
 
 /* =Nav, Side-Nav, Nav-Mobile
@@ -195,7 +204,9 @@ nav {
     font-size: 110%;
     color: #CCC;
 }
-
+.brand-logo:hover {
+    background-color: rgb (0, 0, 0, 0.1);
+}
 
 /* =Materialize Overrides
 ============================== */

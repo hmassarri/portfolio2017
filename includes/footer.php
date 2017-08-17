@@ -8,28 +8,28 @@
                             <div class="col s12 m6 l6 black-text">
                                 <div class="row">
                                     <div class="col s12 m12 l12">
-                                        <h6 class="valign-wrapper"><i class="tiny material-icons">public</i>&nbsp;&nbsp;Inspiration</h6>        
+                                        <h6 class="valign-wrapper pink-text text-lighten-1"><i class="tiny material-icons">public</i>&nbsp;&nbsp;INSPIRATION</h6>        
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col s12 m6 l6">
                                         <ul class="light">
-                                            <li>Smashing Magazine</li>
-                                            <li>UXPin</li>
-                                            <li>Material Design</li>
-                                            <li>Materialize CSS</li>
-                                            <li>Interaction Design Foundation</li>
-                                            <li>Lynda.com</li>
+                                            <li><a class="flink" href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a></li>
+                                            <li><a class="flink" href="https://www.uxpin.com" target="_blank">UXPin</a></li>
+                                            <li><a class="flink" href="https://material.io/" target="_blank">Material Design</a></li>
+                                            <li><a class="flink" href="https://www.materializecss.com" target="_blank">Materialize CSS</a></li>
+                                            <li><a class="flink" href="https://www.interaction-design.org/" target="_blank">Interaction Design Foundation</a></li>
+                                            <li><a class="flink" href="https://www.lynda.com" target="_blank">Lynda.com</a></li>
                                         </ul>
                                     </div>
                                     <div class="col s12 m6 l6">
                                         <ul class="light">
-                                            <li>Biltwell</li>
-                                            <li>Burly Brand</li>
-                                            <li>First MFG</li>
-                                            <li>ChopperSwapper</li>
-                                            <li>Nameless Performance</li>
-                                            <li>Harley Davidson</li>
+                                            <li><a class="flink" href="https://www.biltwellinc.com/" target="_blank">Biltwell</a></li>
+                                            <li><a class="flink" href="http://www.burlybrand.com/" target="_blank">Burly Brand</a></li>
+                                            <li><a class="flink" href="https://www.firstmfg.com/" target="_blank">First MFG</a></li>
+                                            <li><a class="flink" href="http://chopperswapper13.com/" target="_blank">ChopperSwapper</a></li>
+                                            <li><a class="flink" href="http://namelessperformance.com/" target="_blank">Nameless Performance</a></li>
+                                            <li><a class="flink" href="http://www.harley-davidson.com/content/h-d/en_US/home.html" target="_blank">Harley Davidson</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -37,7 +37,7 @@
                             <div class="col s12 m6 l6 black-text">
                                 <div class="row">
                                     <div class="col s12 m12 l12">
-                                        <h6 class="valign-wrapper"><i class="tiny material-icons">play_arrow</i>&nbsp;&nbsp;Playlist</h6>       
+                                        <h6 class="valign-wrapper pink-text text-lighten-1"><i class="tiny material-icons">play_arrow</i>&nbsp;&nbsp;PLAYLIST</h6>       
                                     </div>
                                 </div>
                                 <div class="row">
