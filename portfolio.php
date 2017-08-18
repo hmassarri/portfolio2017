@@ -31,7 +31,7 @@
                 </div>
 
                 <!-- Left Column -->
-                <div class="col s12 m12 l4 one">
+                <div class="col s12 m12 l6 one">
                     <div class="card large hoverable">
                         <div class="card-image">
                             <img class="activator responsive-img materialboxed" width="300" src="img/print/mpyke-unseen.png">
@@ -40,7 +40,7 @@
                             <p>Matthew Pyke</p>
                             <br />
                             <p>Author Matthew Pyke reached out to me to do a book cover for this upcoming series: The Last Days
-                                of Quenateed. This is the first Volume in the series.</p>
+                                of Quenateed, Volume 1: Unseen.</p>
                         </div>
                         <div class="card-action">
                             <a href="http://www.pykescorner.com">www.pykescorner.com</a>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
 
-                <div class="col s12 m12 l4 two">
+                <div class="col s12 m12 l6 two">
                     <div class="card large hoverable">
                         <div class="card-image">
                             <img class="responsive-img materialboxed" width="300" src="img/print/mpyke-horizon.png">
@@ -57,7 +57,7 @@
                             <p>Matthew Pyke</p>
                             <br />
                             <p>Author Matthew Pyke reached out to me to do a book cover for this upcoming series: The Last Days
-                                of Quenateed. This is the first Volume in the series.</p>
+                                of Quenateed, Volume 2: Horizon.</p>
                         </div>
                         <div class="card-action">
                             <a href="http://www.pykescorner.com">www.pykescorner.com</a>
