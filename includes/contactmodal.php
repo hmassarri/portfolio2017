@@ -7,7 +7,7 @@
 	$subject = "Contact Form from hugomassarri.com";
 	$mailheader = "From: $email \r\n";
 	mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-	echo "Thank You!";
+	//echo "Thank You!";
 ?>
 
 		<!-- Contact Modal -->
