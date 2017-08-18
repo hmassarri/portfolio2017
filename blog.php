@@ -30,7 +30,7 @@
                             <p>Just picked up this helmet. I used a SHOEI X11 for the past 8 years and it was an excellent helmet. Now that I switched up bikes, I decided to try something different. This is one awesome helmet for the price. I was very happy with the fit, the comfort and the look and the weight. Definitely recommend one of these if you are in the market for a new helmet.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.biltwellinc.com">www.biltwellinc.com</a>
+                            <a href="http://www.biltwellinc.com">biltwellinc.com</a>
                         </div>
                     </div>
                     
@@ -43,7 +43,7 @@
                             <p>Beautiful.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.autodromo.com">www.autodromo.com</a>
+                            <a href="http://www.autodromo.com">autodromo.com</a>
                         </div>
                     </div>
                     
@@ -69,7 +69,7 @@
                             <p>Found these awesome Panhead covers on Led Sled Customs. They fit all 1986 - 2106 Sportsters. They come in raw, powdercoat, or chrome. Definitely interested in getting a pair of these. Go check it out.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.ledsledcustoms.com">www.ledsledcustoms.com</a>
+                            <a href="http://www.ledsledcustoms.com">ledsledcustoms.com</a>
                         </div>
                     </div>
                     
@@ -82,7 +82,7 @@
                             <p>Thinking about buying this seat in the near future. If you’re a lone wolf on rubber-mount Sporty, consider ditching your stock two-up seat and replacing it with a Biltwell Speedway unit. Same lean silhouette and quality construction as our HB seat, but chopped to provide comfortable seating for one.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.biltwellinc.com">www.biltwellinc.com</a>
+                            <a href="http://www.biltwellinc.com">biltwellinc.com</a>
                         </div>
                     </div>
                     
@@ -100,7 +100,7 @@
                             <p>Holy Cow. One of the best shows I have seen this year. Amazing. Definitely recommend.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.netflix.com/strangerthings">www.netflix.com/strangerthings</a>
+                            <a href="http://www.netflix.com/strangerthings">netflix.com/strangerthings</a>
                         </div>
                     </div>
                     
@@ -113,7 +113,7 @@
                             <p>New Balance 990s in Black / Grey. Awesome. Get yours.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.newbalance.com">www.newbalance.com</a>
+                            <a href="http://www.newbalance.com">newbalance.com</a>
                         </div>
                     </div>
                 </div>

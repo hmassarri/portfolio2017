@@ -156,17 +156,17 @@ ul#playlist li {
     border-bottom: 1px solid #EEEEEE;
 }
 .flink {
+	padding-left: 5px;
     font-size: 14px;
-    color: #454545;
+    color: #555555;
+	border-left: 1px solid #FFFFFF;
+	display: inline-block;
+	width: 100%;
 }
 .flink:hover {
-    color: #FFFFFF;
-    text-shadow: /* h-shadow v-shadow blur-radius color */
-        0 0 5px #FFFFFF,
-        0 0 6px #E91E63,
-        0 0 7px #FFFFFF,
-        0 0 8px #E91E63;
-    text-align: center;
+    color: #F06292;
+	padding-left: 5px;
+	border-left: 1px solid #90CAF9;
 }
 
 /* =Nav, Side-Nav, Nav-Mobile
@@ -180,6 +180,14 @@ nav {
 .navbar-fixed {
     z-index: 998;
 }
+nav ul a:hover {
+    background-color: rgba(0,0,0,0.11);
+}
+nav .brand-logo {
+    font-size: 3.1rem;
+	font-weight: bolder;
+}
+
 .side-nav li>a:hover {
     background-color: #F06292;
 }
@@ -223,6 +231,14 @@ nav {
 .dropdown-content li > a:hover, .dropdown-content li > span:hover {
     background-color: #666666;
     color: #FFFFFF;
+}
+/* // card links // */
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #F06292;
+    text-transform: none;
+}
+.card .card-action a:hover:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #E91E63;
 }
 
 
@@ -270,9 +286,12 @@ nav {
     text-align: center;
 }
 
-.breadcrumb:hover, .breadcrumb:active {
+.breadcrumb:hover {
     background-color: #F06292;
     color: #FFFFFF;
+	-webkit-transition: background-color .6s ease;
+	transition: background-color .6s ease;
+
 }
 
 /* =Cards
@@ -292,35 +311,59 @@ nav {
 /* label color */
 
 .input-field label {
-    color: #E91E63;
+    color: #6A1B9A;
 }
 /* label focus color */
 
 .input-field input[type=text]:focus+label {
-    color: #E91E63;
+    color: #6A1B9A;
 }
 /* label underline focus color */
 
 .input-field input[type=text]:focus {
-    border-bottom: 1px solid #E91E63;
+    border-bottom: 1px solid #6A1B9A;
     box-shadow: 0 1px 0 0 #000;
 }
 /* valid color */
 
 .input-field input[type=text].valid {
-    border-bottom: 1px solid #E91E63;
+    border-bottom: 1px solid #6A1B9A;
     box-shadow: 0 1px 0 0 #000;
 }
 /* invalid color */
 
 .input-field input[type=text].invalid {
-    border-bottom: 1px solid #E91E63;
+    border-bottom: 1px solid #6A1B9A;
     box-shadow: 0 1px 0 0 #000;
 }
 /* icon prefix focus color */
 
 .input-field .prefix.active {
-    color: #E91E63;
+    color: #6A1B9A;
+}
+input.valid:not([type]) + label::after, input.valid:focus:not([type]) + label::after, input.valid[type="text"]:not(.browser-default) + label::after, input.valid[type="text"]:focus:not(.browser-default) + label::after, input.valid[type="password"]:not(.browser-default) + label::after, input.valid[type="password"]:focus:not(.browser-default) + label::after, input.valid[type="email"]:not(.browser-default) + label::after, input.valid[type="email"]:focus:not(.browser-default) + label::after, input.valid[type="url"]:not(.browser-default) + label::after, input.valid[type="url"]:focus:not(.browser-default) + label::after, input.valid[type="time"]:not(.browser-default) + label::after, input.valid[type="time"]:focus:not(.browser-default) + label::after, input.valid[type="date"]:not(.browser-default) + label::after, input.valid[type="date"]:focus:not(.browser-default) + label::after, input.valid[type="datetime"]:not(.browser-default) + label::after, input.valid[type="datetime"]:focus:not(.browser-default) + label::after, input.valid[type="datetime-local"]:not(.browser-default) + label::after, input.valid[type="datetime-local"]:focus:not(.browser-default) + label::after, input.valid[type="tel"]:not(.browser-default) + label::after, input.valid[type="tel"]:focus:not(.browser-default) + label::after, input.valid[type="number"]:not(.browser-default) + label::after, input.valid[type="number"]:focus:not(.browser-default) + label::after, input.valid[type="search"]:not(.browser-default) + label::after, input.valid[type="search"]:focus:not(.browser-default) + label::after, textarea.materialize-textarea.valid + label::after, textarea.materialize-textarea.valid:focus + label::after, .select-wrapper.valid + label::after {
+    color: #6A1B9A;
+}
+input.valid:not([type]), input.valid:focus:not([type]), input.valid[type="text"]:not(.browser-default), input.valid[type="text"]:focus:not(.browser-default), input.valid[type="password"]:not(.browser-default), input.valid[type="password"]:focus:not(.browser-default), input.valid[type="email"]:not(.browser-default), input.valid[type="email"]:focus:not(.browser-default), input.valid[type="url"]:not(.browser-default), input.valid[type="url"]:focus:not(.browser-default), input.valid[type="time"]:not(.browser-default), input.valid[type="time"]:focus:not(.browser-default), input.valid[type="date"]:not(.browser-default), input.valid[type="date"]:focus:not(.browser-default), input.valid[type="datetime"]:not(.browser-default), input.valid[type="datetime"]:focus:not(.browser-default), input.valid[type="datetime-local"]:not(.browser-default), input.valid[type="datetime-local"]:focus:not(.browser-default), input.valid[type="tel"]:not(.browser-default), input.valid[type="tel"]:focus:not(.browser-default), input.valid[type="number"]:not(.browser-default), input.valid[type="number"]:focus:not(.browser-default), input.valid[type="search"]:not(.browser-default), input.valid[type="search"]:focus:not(.browser-default), textarea.materialize-textarea.valid, textarea.materialize-textarea.valid:focus, .select-wrapper.valid > input.select-dropdown {
+    border-bottom: 1px solid #6A1B9A;
+    -webkit-box-shadow: 0 1px 0 0 #6A1B9A;
+    box-shadow: 0 1px 0 0 #6A1B9A;
+}
+input:not([type]), input[type="text"]:not(.browser-default), input[type="password"]:not(.browser-default), input[type="email"]:not(.browser-default), input[type="url"]:not(.browser-default), input[type="time"]:not(.browser-default), input[type="date"]:not(.browser-default), input[type="datetime"]:not(.browser-default), input[type="datetime-local"]:not(.browser-default), input[type="tel"]:not(.browser-default), input[type="number"]:not(.browser-default), input[type="search"]:not(.browser-default), textarea.materialize-textarea {
+    background-color: transparent;
+    border: none;
+    border-bottom-width: medium;
+    border-bottom-style: none;
+    border-bottom-color: currentcolor;
+    border-bottom: 1px solid #6A1B9A;
+}
+.input-field input[type=text]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #6A1B9A !important;
+}
+/* label underline focus color */
+.input-field input[type=text]:focus, input[type=email]:focus, .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #6A1B9A !important;
+    box-shadow: 0 1px 0 0 #6A1B9A !important;
 }
 
 

@@ -8,7 +8,7 @@
                             <div class="col s12 m6 l6 black-text">
                                 <div class="row">
                                     <div class="col s12 m12 l12">
-                                        <h6 class="valign-wrapper pink-text text-lighten-1"><i class="tiny material-icons">public</i>&nbsp;&nbsp;INSPIRATION</h6>        
+                                        <h6 class="valign-wrapper pink-text text-lighten-2"><i class="tiny material-icons">public</i>&nbsp;&nbsp;INSPIRATION</h6>        
                                     </div>
                                 </div>
                                 <div class="row">
@@ -37,7 +37,7 @@
                             <div class="col s12 m6 l6 black-text">
                                 <div class="row">
                                     <div class="col s12 m12 l12">
-                                        <h6 class="valign-wrapper pink-text text-lighten-1"><i class="tiny material-icons">play_arrow</i>&nbsp;&nbsp;PLAYLIST</h6>       
+                                        <h6 class="valign-wrapper pink-text text-lighten-2"><i class="tiny material-icons">play_arrow</i>&nbsp;&nbsp;PLAYLIST</h6>       
                                     </div>
                                 </div>
                                 <div class="row">

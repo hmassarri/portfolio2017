@@ -134,13 +134,13 @@ $('.carousel, .carousel-slider').css('opacity', 1 - $(window).scrollTop() / 250)
 
     if ($(window).scrollTop() > 150) {
         $('nav').removeClass('white').addClass('pink accent-2').fadeIn(100);
-        $('.brand-logo').removeClass('black-text').addClass('white-text');
+        $('.brand-logo').removeClass('black-text').addClass('blue-text text-lighten-3');
         $('.link').removeClass('black-text').addClass('white-text');
         $('.button-collapse').removeClass('black-text').addClass('white-text');
         $('.side-nav').removeClass('white').addClass('pink accent-2');
     } else {
         $('nav').addClass('white').removeClass('pink accent-2').fadeIn(100);
-        $('.brand-logo').removeClass('white-text').addClass('black-text');
+        $('.brand-logo').removeClass('blue-text text-lighten-3').addClass('black-text');
         $('.link').removeClass('white-text').addClass('black-text');
         $('.button-collapse').removeClass('white-text').addClass('black-text');
         $('.side-nav').removeClass('pink accent-2').addClass('white');

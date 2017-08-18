@@ -32,7 +32,7 @@
 
                 <!-- Left Column -->
                 <div class="col s12 m12 l4 one">
-                    <div class="card large">
+                    <div class="card large hoverable">
                         <div class="card-image">
                             <img class="activator responsive-img materialboxed" width="300" src="img/print/mpyke-unseen.png">
                         </div>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="col s12 m12 l4 two">
-                    <div class="card large">
+                    <div class="card large hoverable">
                         <div class="card-image">
                             <img class="responsive-img materialboxed" width="300" src="img/print/mpyke-horizon.png">
                         </div>
@@ -77,7 +77,7 @@
                 </div>
 
                 <div class="col s12 m12 l4 one">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/valentine.png">
                         </div>
@@ -102,35 +102,33 @@
                 </div>
                 
                 <div class="col s12 m12 l4 two">
-                    <div class="card card1">
-                        <div class="card">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator responsive-img" src="img/web/mattpyke.png">
-                            </div>
-                            <div class="card-content">
-                                <span class="activator grey-text text-darken-4">Matt Pyke<br />&nbsp;<i class="material-icons right">more_vert</i></span>
-                                <p><a target="_blank" href="http://www.pykescorner.com">http://www.pykescorner.com</a></p>
-                            </div>
-                            <div class="card-reveal">
-                                <span class="card-title grey-text text-darken-2">Matt Pyke<i class="material-icons right">close</i></span>
-                                <p>A freelance writer who specializes in fiction and sci-fi, that I know, needed some help in
-                                    designing his online presence.</p>
-                                <p>
-                                    <ul>
-                                        <li>HTML5</li>
-                                        <li>CSS3</li>
-                                        <li>jQuery</li>
-                                        <li>Materialize CSS</li>
-                                        <li>Sketch</li>
-                                    </ul>
-                                </p>
-                            </div>
-                        </div>
+                    <div class="card hoverable">
+						<div class="card-image waves-effect waves-block waves-light">
+							<img class="activator responsive-img" src="img/web/mattpyke.png">
+						</div>
+						<div class="card-content">
+							<span class="activator grey-text text-darken-4">Matt Pyke<br />&nbsp;<i class="material-icons right">more_vert</i></span>
+							<p><a target="_blank" href="http://www.pykescorner.com">http://www.pykescorner.com</a></p>
+						</div>
+						<div class="card-reveal">
+							<span class="card-title grey-text text-darken-2">Matt Pyke<i class="material-icons right">close</i></span>
+							<p>A freelance writer who specializes in fiction and sci-fi, that I know, needed some help in
+								designing his online presence.</p>
+							<p>
+								<ul>
+									<li>HTML5</li>
+									<li>CSS3</li>
+									<li>jQuery</li>
+									<li>Materialize CSS</li>
+									<li>Sketch</li>
+								</ul>
+							</p>
+						</div>
                     </div>
                 </div>
                 
                 <div class="col s12 m12 l4 three">
-                    <div class="card card2">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/chad.png">
                         </div>
@@ -159,7 +157,7 @@
             <!-- Row 2 -->
             <div class="row">
                 <div class="col s12 m12 l4 four">
-                    <div class="card card3">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-math.png">
                         </div>
@@ -188,7 +186,7 @@
                 </div>
                 
                 <div class="col s12 m12 l4 five">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-deans.png">
                         </div>
@@ -215,7 +213,7 @@
                 </div>
 
                 <div class="col s12 m12 l4 six">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-convocation.png">
                         </div>
@@ -248,7 +246,7 @@
             <!-- Row 3 -->
             <div class="row">
                 <div class="col s12 m12 l4 seven">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-iamdn.png">
                         </div>
@@ -277,7 +275,7 @@
                 </div>
                 
                 <div class="col s12 m12 l4 eight">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-hpcc.png">
                         </div>
@@ -305,7 +303,7 @@
                 </div>
 
                 <div class="col s12 m12 l4 nine">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-rei.png">
                         </div>
@@ -338,7 +336,7 @@
             <!-- Row 4 -->
             <div class="row">
                 <div class="col s12 m12 l4 one">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/sas-irw.png">
                         </div>
@@ -367,7 +365,7 @@
                 </div>
 
                 <div class="col s12 m12 l4 two">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/unidentified.png">
                         </div>
@@ -395,7 +393,7 @@
                 </div>
 
                 <div class="col s12 m12 l4 three">
-                    <div class="card">
+                    <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">
                             <img class="activator responsive-img" src="img/web/wram.png">
                         </div>
