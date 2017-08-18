@@ -43,7 +43,7 @@
                                 of Quenateed, Volume 1: Unseen.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.pykescorner.com">www.pykescorner.com</a>
+                            <a href="http://www.pykescorner.com">pykescorner.com</a>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                                 of Quenateed, Volume 2: Horizon.</p>
                         </div>
                         <div class="card-action">
-                            <a href="http://www.pykescorner.com">www.pykescorner.com</a>
+                            <a href="http://www.pykescorner.com">pykescorner.com</a>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
 						</div>
 						<div class="card-content">
 							<span class="activator grey-text text-darken-4">Matt Pyke<br />&nbsp;<i class="material-icons right">more_vert</i></span>
-							<p><a target="_blank" href="http://www.pykescorner.com">http://www.pykescorner.com</a></p>
+							<p><a target="_blank" href="http://www.pykescorner.com">pykescorner.com</a></p>
 						</div>
 						<div class="card-reveal">
 							<span class="card-title grey-text text-darken-2">Matt Pyke<i class="material-icons right">close</i></span>
@@ -134,7 +134,7 @@
                         </div>
                         <div class="card-content">
                             <span class="activator grey-text text-darken-4">Chad Saharic<br />&nbsp;<i class="material-icons right">more_vert</i></span>
-                            <p><a target="_blank" href="http://www.chadsaharic.com">http://www.chadsaharic.com</a></p>
+                            <p><a target="_blank" href="http://www.chadsaharic.com">chadsaharic.com</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2">Chad Saharic<i class="material-icons right">close</i></span>
@@ -165,7 +165,7 @@
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />CMSR
                             <i class="material-icons right">more_vert</i>
                             </span>
-                            <p><a target="_blank" href="http://cmsr.rutgers.edu/">http://cmsr.rutgers.edu/</a></p>
+                            <p><a target="_blank" href="http://cmsr.rutgers.edu/">cmsr.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> CMSR
@@ -193,7 +193,7 @@
                         <div class="card-content">
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />SAS
                             Deans Office<i class="material-icons right">more_vert</i></span>
-                            <p><a target="_blank" href="http://sas.rutgers.edu/">http://sas.rutgers.edu</a></p>
+                            <p><a target="_blank" href="http://sas.rutgers.edu/">sas.rutgers.edu</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />SAS
@@ -221,7 +221,7 @@
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />SAS
                             Convocation
                             <i class="material-icons right">more_vert</i></span>
-                            <p><a target="_blank" href="http://convocation.sas.rutgers.edu/">http://convocation.sas.rutgers.edu</a></p>
+                            <p><a target="_blank" href="http://convocation.sas.rutgers.edu/">convocation.sas.rutgers.edu</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />SAS
@@ -254,7 +254,7 @@
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />IAMDN
                             <i class="material-icons right">more_vert</i>
                             </span>
-                            <p><a target="_blank" href="http://iamdn.rutgers.edu/">http://iamdn.rutgers.edu/</a></p>
+                            <p><a target="_blank" href="http://iamdn.rutgers.edu/">iamdn.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IAMDN
@@ -283,7 +283,7 @@
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />HPCC
                             <i class="material-icons right">more_vert</i>
                             </span>
-                            <p><a target="_blank" href="http://hpcc.rutgers.edu/">http://hpcc.rutgers.edu/</a></p>
+                            <p><a target="_blank" href="http://hpcc.rutgers.edu/">hpcc.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />HPCC
@@ -311,7 +311,7 @@
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />REI
                             <i class="material-icons right">more_vert</i>
                             </span>
-                            <p><a target="_blank" href="http://rei.rutgers.edu/">http://rei.rutgers.edu/</a></p>
+                            <p><a target="_blank" href="http://rei.rutgers.edu/">rei.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />REI
@@ -344,7 +344,7 @@
                             <span class="activator grey-text text-darken-4"><span class="red-text">Rutgers</span><br />IRW
                             <i class="material-icons right">more_vert</i>
                             </span>
-                            <p><a target="_blank" href="http://irw.rutgers.edu/">http://irw.rutgers.edu/</a></p>
+                            <p><a target="_blank" href="http://irw.rutgers.edu/">irw.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IRW
