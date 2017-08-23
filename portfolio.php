@@ -35,7 +35,7 @@
                 <div class="col s12 m12 l6 one">
                     <div class="card large hoverable">
                         <div class="card-image">
-                            <img class="activator responsive-img materialboxed" width="300" src="img/print/mpyke-unseen.png">
+                            <img class="responsive-img materialboxed" width="300" src="img/print/mpyke-unseen.png">
                         </div>
                         <div class="card-content">
                             <p>Matthew Pyke</p>

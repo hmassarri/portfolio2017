@@ -3,7 +3,7 @@
 
 <head>
 
-	<title>Portfolio 2017</title>
+	<title>Hugo M. / UIX Designer and Developer</title>
   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/css/materialize.min.css">
 	<link rel="stylesheet" href="_/css/override.css">
 
