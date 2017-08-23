@@ -11,6 +11,7 @@
             <div class="row valign-wrapper">
                 <div class="col s12 m12 l12">
                     <h1 class="header">Blog</h1>
+                    <h6 class="subheader">Stuff I find and want to share</h6>
                 </div>
             </div>
             <div class="row">

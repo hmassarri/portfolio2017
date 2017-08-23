@@ -311,43 +311,43 @@ nav .brand-logo {
 /* label color */
 
 .input-field label {
-    color: #6A1B9A;
+    color: #424242;
 }
 /* label focus color */
 
 .input-field input[type=text]:focus+label {
-    color: #6A1B9A;
+    color: #2196F3;
 }
 /* label underline focus color */
 
 .input-field input[type=text]:focus {
-    border-bottom: 1px solid #6A1B9A;
-    box-shadow: 0 1px 0 0 #000;
+    border-bottom: 1px solid #2196F3;
+    box-shadow: 0 1px 0 0 #424242;
 }
 /* valid color */
 
 .input-field input[type=text].valid {
-    border-bottom: 1px solid #6A1B9A;
-    box-shadow: 0 1px 0 0 #000;
+    border-bottom: 1px solid #2196F3;
+    box-shadow: 0 1px 0 0 #424242;
 }
 /* invalid color */
 
 .input-field input[type=text].invalid {
-    border-bottom: 1px solid #6A1B9A;
-    box-shadow: 0 1px 0 0 #000;
+    border-bottom: 1px solid #2196F3;
+    box-shadow: 0 1px 0 0 #424242;
 }
 /* icon prefix focus color */
 
 .input-field .prefix.active {
-    color: #6A1B9A;
+    color: #2196F3;
 }
 input.valid:not([type]) + label::after, input.valid:focus:not([type]) + label::after, input.valid[type="text"]:not(.browser-default) + label::after, input.valid[type="text"]:focus:not(.browser-default) + label::after, input.valid[type="password"]:not(.browser-default) + label::after, input.valid[type="password"]:focus:not(.browser-default) + label::after, input.valid[type="email"]:not(.browser-default) + label::after, input.valid[type="email"]:focus:not(.browser-default) + label::after, input.valid[type="url"]:not(.browser-default) + label::after, input.valid[type="url"]:focus:not(.browser-default) + label::after, input.valid[type="time"]:not(.browser-default) + label::after, input.valid[type="time"]:focus:not(.browser-default) + label::after, input.valid[type="date"]:not(.browser-default) + label::after, input.valid[type="date"]:focus:not(.browser-default) + label::after, input.valid[type="datetime"]:not(.browser-default) + label::after, input.valid[type="datetime"]:focus:not(.browser-default) + label::after, input.valid[type="datetime-local"]:not(.browser-default) + label::after, input.valid[type="datetime-local"]:focus:not(.browser-default) + label::after, input.valid[type="tel"]:not(.browser-default) + label::after, input.valid[type="tel"]:focus:not(.browser-default) + label::after, input.valid[type="number"]:not(.browser-default) + label::after, input.valid[type="number"]:focus:not(.browser-default) + label::after, input.valid[type="search"]:not(.browser-default) + label::after, input.valid[type="search"]:focus:not(.browser-default) + label::after, textarea.materialize-textarea.valid + label::after, textarea.materialize-textarea.valid:focus + label::after, .select-wrapper.valid + label::after {
-    color: #6A1B9A;
+    color: #2196F3;
 }
 input.valid:not([type]), input.valid:focus:not([type]), input.valid[type="text"]:not(.browser-default), input.valid[type="text"]:focus:not(.browser-default), input.valid[type="password"]:not(.browser-default), input.valid[type="password"]:focus:not(.browser-default), input.valid[type="email"]:not(.browser-default), input.valid[type="email"]:focus:not(.browser-default), input.valid[type="url"]:not(.browser-default), input.valid[type="url"]:focus:not(.browser-default), input.valid[type="time"]:not(.browser-default), input.valid[type="time"]:focus:not(.browser-default), input.valid[type="date"]:not(.browser-default), input.valid[type="date"]:focus:not(.browser-default), input.valid[type="datetime"]:not(.browser-default), input.valid[type="datetime"]:focus:not(.browser-default), input.valid[type="datetime-local"]:not(.browser-default), input.valid[type="datetime-local"]:focus:not(.browser-default), input.valid[type="tel"]:not(.browser-default), input.valid[type="tel"]:focus:not(.browser-default), input.valid[type="number"]:not(.browser-default), input.valid[type="number"]:focus:not(.browser-default), input.valid[type="search"]:not(.browser-default), input.valid[type="search"]:focus:not(.browser-default), textarea.materialize-textarea.valid, textarea.materialize-textarea.valid:focus, .select-wrapper.valid > input.select-dropdown {
-    border-bottom: 1px solid #6A1B9A;
-    -webkit-box-shadow: 0 1px 0 0 #6A1B9A;
-    box-shadow: 0 1px 0 0 #6A1B9A;
+    border-bottom: 1px solid #424242;
+    -webkit-box-shadow: 0 1px 0 0 #424242;
+    box-shadow: 0 1px 0 0 #424242;
 }
 input:not([type]), input[type="text"]:not(.browser-default), input[type="password"]:not(.browser-default), input[type="email"]:not(.browser-default), input[type="url"]:not(.browser-default), input[type="time"]:not(.browser-default), input[type="date"]:not(.browser-default), input[type="datetime"]:not(.browser-default), input[type="datetime-local"]:not(.browser-default), input[type="tel"]:not(.browser-default), input[type="number"]:not(.browser-default), input[type="search"]:not(.browser-default), textarea.materialize-textarea {
     background-color: transparent;
@@ -355,15 +355,16 @@ input:not([type]), input[type="text"]:not(.browser-default), input[type="passwor
     border-bottom-width: medium;
     border-bottom-style: none;
     border-bottom-color: currentcolor;
-    border-bottom: 1px solid #6A1B9A;
+    border-bottom: 1px solid #FF4081;
+    color: #FF4081;
 }
-.input-field input[type=text]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
-    color: #6A1B9A !important;
+.input-field input[type=text]:focus + label, input[type="email"]:focus:not(.browser-default) + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #2196F3 !important;
 }
 /* label underline focus color */
 .input-field input[type=text]:focus, input[type=email]:focus, .materialize-textarea:focus:not([readonly]) {
-    border-bottom: 1px solid #6A1B9A !important;
-    box-shadow: 0 1px 0 0 #6A1B9A !important;
+    border-bottom: 1px solid #2196F3 !important;
+    box-shadow: 0 1px 0 0 #2196F3 !important;
 }
 
 
@@ -382,49 +383,9 @@ input:not([type]), input[type="text"]:not(.browser-default), input[type="passwor
 /* =Media Queries
 ============================== */
 @media (min-width: 0) and (max-width: 992px) {
-
-    /*
-    html {
-        font-size: 1.5em;
-    }
-    */
     .card .card-title {
         font-size: 2em;
     }
-    
-    /*
-    nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-        height: 120px;
-        line-height: 120px;
-    }
-    
-    .side-nav .userView .name, .side-nav .userView .email {
-        line-height: 100px;
-    }
-    
-    .side-nav {
-        width: 700px;
-    }
-    
-    .side-nav a {
-        font-size: 1em;
-        font-weight: normal;
-        height: 120px;
-        line-height: 120px;
-    }
-    
-    .side-nav li {
-        line-height: 120px;
-    }
-    
-    .side-nav li > a > i, .side-nav li > a > [class^="mdi-"], .side-nav li > a > [class*="mdi-"], .side-nav li > a > i.material-icons {
-        line-height: 120px;
-    }
-    
-    nav .button-collapse i {
-    font-size: 4rem;
-    }
-    */
     #b-title {
         margin-top: 50px;
     }

@@ -28,8 +28,9 @@
             <div class="row">
                 <div class="col s12 m12 l12">
                     <h3 class="subheader">Print</h3>
+                    <h6 class="subheader">Work - 2016 / 2017</h6>
                 </div>
-
+                <div class="gap-xs">&nbsp;</div>
                 <!-- Left Column -->
                 <div class="col s12 m12 l6 one">
                     <div class="card large hoverable">
@@ -74,8 +75,9 @@
                 </div>
                 <div class="col s12 m12 l12">
                     <h3 class="subheader">Web</h3>
+                    <h6 class="subheader">Click on the images for more information</h6>
                 </div>
-
+                <div class="gap-xs">&nbsp;</div>
                 <div class="col s12 m12 l4 one">
                     <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-light">

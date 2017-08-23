@@ -43,16 +43,16 @@
                                 <div class="row">
                                     <div class="col s12 m12 l12">
                                         <ul id="playlist">
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/newretrowave.jpg" /></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/magnatron.jpg" /></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/magnatron20.jpg" /></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/tonebox.jpg"></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/robertparker.jpg"></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/waveshaper.jpg"></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/85again.jpg" /></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/jordanf.jpg"></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/lazerhawk.jpg"></li>
-                                            <li><img class="responsive-img materialboxed" width="75" src="img/Futurecop.jpg"></li>
+                                            <li><a href="http://www.newretrowave.com" target="_blank"><img class="responsive-img" width="75" src="img/newretrowave.jpg" /></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/magnatron" target="_blank"><img class="responsive-img" width="75" src="img/magnatron.jpg" /></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/magnatron-20" target="_blank"><img class="responsive-img" width="75" src="img/magnatron20.jpg" /></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/nocturn" target="_blank"><img class="responsive-img" width="75" src="img/tonebox.jpg"></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/crystal-city" target="_blank"><img class="responsive-img" width="75" src="img/robertparker.jpg"></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/station-nova" target="_blank"><img class="responsive-img" width="75" src="img/waveshaper.jpg"></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/robert-parker-85-again-feat-miss-k-the-remixes" target="_blank"><img class="responsive-img" width="75" src="img/85again.jpg" /></a></li>
+                                            <li><a href="https://rossocorsarecords.bandcamp.com/album/slipstream" target="_blank"><img class="responsive-img" width="75" src="img/jordanf.jpg"></a></li>
+                                            <li><a href="https://lazerhawk.bandcamp.com/" target="_blank"><img class="responsive-img" width="75" src="img/lazerhawk.jpg"></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/return-to-alvograth" target="_blank"><img class="responsive-img" width="75" src="img/Futurecop.jpg"></a></li>
                                         </ul>  
                                     </div>
                                 </div>

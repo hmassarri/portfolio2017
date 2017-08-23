@@ -3,7 +3,7 @@
 
 <head>
 
-	<title>Portfolio 2017</title>
+	<title>Hugo M. / UIX Designer and Developer</title>
   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/css/materialize.min.css">
 	<link rel="stylesheet" href="_/css/override.css">
 
@@ -22,7 +22,7 @@
 	<main id="mainIndex" class="valign-wrapper">
         <div class="row">
             <div class="div col s12 m12 l12">
-                <img src="img/chromelogopink.png" alt="HM chrome logo" style="opacity: 1; text-align: center;" />    
+                <a href="index-1.php"><img src="img/chromelogopink.png" alt="HM chrome logo" style="opacity: 1; text-align: center;" /></a>
             </div>
         </div>
 	</main>
