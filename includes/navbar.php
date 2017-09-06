@@ -7,7 +7,7 @@
 					<ul id="nav-mobile" class="right hide-on-med-and-down">
 						<li><a id="link1" href="blog.php" class="link black-text waves-effect waves-light">Blog</a></li>
 						<li><a id="link2" href="portfolio.php" class="link black-text waves-effect waves-light">Portfolio</a></li>
-						<li><a id="link3" href="#contact-modal" class="link black-text waves-effect waves-light modal-trigger">Contact</a></li>
+						<li><a id="link3" href="contact.php" class="link black-text waves-effect waves-light modal-trigger">Contact</a></li>
 					</ul>
 					<!-- Mobile Menu -->
 					<ul id="mobile-menu" class="side-nav">
@@ -23,7 +23,7 @@
 						</li>
 						<li><a id="m-link1" href="blog.php" class="link black-text waves-effect waves-light">Blog</a></li>
 						<li><a id="m-link2" href="portfolio.php" class="link black-text waves-effect waves-light">Portfolio</a></li>
-						<li><a id="m-link3" href="#contact-modal" class="link black-text waves-effect waves-light">Contact</a></li>
+						<li><a id="m-link3" href="contact.php" class="link black-text waves-effect waves-light">Contact</a></li>
 					</ul>
 				</div>
 			</nav>
