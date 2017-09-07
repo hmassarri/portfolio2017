@@ -26,12 +26,14 @@
     <div class="row">
         <div class="col s12 m12 l12 center-align">
             <div class="gap-small">&nbsp;</div>
-            <?php if (isset($success) && $success) { ?>
-            <h4 class="pink-text text-lighten-3">Awesome! and Thank you.</h4>
-            <p>Thanks for message.  I'll get back to you soon.</p>
-            <?php } else { ?>
-            <h4 class="pink-text text-lighten-3">What did you do??  It didn't work.</h4>
-            <p>I guess something happened.  Let's try again.</p>
+            <?php 
+                if(!empty($_POST['url'])){        
+                    if (isset($success) && $success) { ?>
+                <h4 class="pink-text text-lighten-3">Awesome! and Thank you.</h4>
+                <p>Thanks for message.  I'll get back to you soon.</p>
+            <?php } } else { ?>
+                <h4 class="pink-text text-lighten-3">What did you do??  It didn't work.</h4>
+                <p>I guess something happened.  Let's try again.</p>
             <?php } ?>
             <div class="gap-small">&nbsp;</div>
         </div>
