@@ -15,7 +15,8 @@
 	https://www.codeply.com/go/YSZPQp1wcB
 	http://brm.io/jquery-match-height-demo/
 	-->
-
+    <!-- //Google ReCaptcha // -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 
 <body>

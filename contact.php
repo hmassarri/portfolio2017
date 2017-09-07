@@ -1,12 +1,28 @@
 <?php require_once 'includes/header.php'; ?>
 <?php require_once 'includes/navbar.php'; ?>
 
+<?php
+    if (isset($_POST['envia']) && $_POST['envia'] == 'ok') {
+        $result = file_get_contents( 'https://www.google.com/recaptcha/api/siteverify', false, stream_context_create(array(
+            'http' => array(
+                'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+                'method'  => 'POST',
+                'content' => http_build_query(array(
+                    'response' => $_POST['g-recaptcha-response'],
+                    'secret' => '6LdBzi8UAAAAAJu-3IHBz34LM50G1imvf_8i7w1x'
+                )),
+            ),
+        )));
+        $result = json_decode($result);
+        var_dump($result->success );
+    }
+?>
 
 	<div class="container">
         <div class="gap-small">&nbsp;</div>
 	    <h4 class="pink-text text-lighten-3">Shoot me a message</h4>
         <div class="row">
-            <form method="post" action="acknowledge.php" class="col s12">
+            <form id="contactform" method="post" action="acknowledge.php" class="col s12">
                 <div class="row">
                     <div class="input-field col s12">
                         <i class="material-icons prefix">account_circle</i>
@@ -30,7 +46,12 @@
                 </div>
                 <div class="row">
                     <div class="col s12 m12 l12">
-                        <button class="btn waves-effect modal-close waves-light-blue blue right" type="submit" name="send">Submit <i class="material-icons right">send</i></button>
+                        <div class="g-recaptcha right" data-sitekey="6LdBzi8UAAAAADVb2ijWPdPr40FO2Bhq7PqlPGPD" data-theme="dark light" data-type="image"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s12 m12 l12">
+                        <button class="btn waves-effect modal-close waves-light-blue blue right g-recaptcha" type="submit" name="send">Submit <i class="material-icons right">send</i></button>
                     </div>
                 </div>
             </form>
