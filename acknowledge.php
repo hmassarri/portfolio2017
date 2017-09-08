@@ -4,11 +4,11 @@
 <?php
     if (isset($_POST['send'])) {
         $to = 'hugo@hugomassarri.com';
-        $subject = 'Feedback from my site';
+        $subject = 'Feedback from hugomassarri.com';
         
         $message = 'Name: ' . $_POST['name'] . "\r\n";
         $message .= 'Email: ' . $_POST['email'] . "\r\n\r\n";
-        $message .= 'Comments: ' . $_POST['comments'];
+        $message .= 'Comments: ' . $_POST['comments'] . "\r\n";
         
         $headers = "From: website@hugomassari.com\r\n";
         $headers .= 'Content-Type: text/plain; charset=utf-8';
@@ -32,8 +32,8 @@
                 <h4 class="pink-text text-lighten-3">Awesome! and Thank you.</h4>
                 <p>Thanks for message.  I'll get back to you soon.</p>
             <?php } } else { ?>
-                <h4 class="pink-text text-lighten-3">What did you do??  It didn't work.</h4>
-                <p>I guess something happened.  Let's try again.</p>
+                <h4 class="pink-text text-lighten-3">What did you do??  Not sure what happened, but it didn't work.</h4>
+                <p>Technology.  Pfffft.  Let's try again.</p>
             <?php } ?>
             <div class="gap-small">&nbsp;</div>
         </div>
