@@ -22,18 +22,19 @@
     }
 ?>
 
+
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 center-align">
             <div class="gap-small">&nbsp;</div>
             <?php 
-                if(!empty($_POST['url'])){        
+                if (empty($message)) {
                     if (isset($success) && $success) { ?>
-                <h4 class="pink-text text-lighten-3">Awesome! and Thank you.</h4>
-                <p>Thanks for message.  I'll get back to you soon.</p>
+                        <h4 class="pink-text text-lighten-3">What did you do?  Me neither.</h4>
+                        <p>No worries. Everything will be ok. Hit back and fill out the form again.</p>
             <?php } } else { ?>
-                <h4 class="pink-text text-lighten-3">What did you do??  Not sure what happened, but it didn't work.</h4>
-                <p>Technology.  Pfffft.  Let's try again.</p>
+                        <h4 class="pink-text text-lighten-3">Awesome! and Thank you.</h4>
+                        <p>Thanks for message.  I'll get back to you soon.</p>
             <?php } ?>
             <div class="gap-small">&nbsp;</div>
         </div>
