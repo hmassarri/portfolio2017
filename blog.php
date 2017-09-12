@@ -18,9 +18,24 @@
                 <div class="col s12 m12 l12 gap-xs">&nbsp;</div>
             </div>
             
+                        
             <div class="row">
                 <!-- // Row 1 Small // -->
                 <div class="col s12 m12 l3 sticky-action">
+                    
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/vans-gum.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Vans Work Wear / Black Gum</h5>
+                            <p>These are by far the best looking work friendly (in my opinion) vans that Vans has put out.  I liked them so much
+                            I went bananas buying them up.  Good thing that I did because Vans stopped making this style.  Why does good design always come to end for the next iteration to be not so good or even good looking.  Vans fucked up.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.vans.com">vans.com</a>
+                        </div>
+                    </div>
                     
                     <div class="card hoverable">
                         <div class="card-image">
@@ -55,6 +70,19 @@
                 
                 <!-- // ROW 2 Large // -->
                 <div class="col s12 m12 l5">
+                
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/sharpshooter.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">First MFG Sharpshooter</h5>
+                            <p>After I picked up the First MFG Streetcruiser the weather heated up and became unbearable to wear the jacket.  I decided this would be a good time to get a vest, and since I liked the jacket so much, getting an MFG was a no brainer.  Enter the Sharpshooter.  It fits me perfectly and doesn't let me feel like 50pounds of big mess in a 1 gallon zip lock bag.  Super well made and constructed.  The gun pockets are deep and it allows me to fit a lot of stuff in there.  Since I usually go light, my wallet and phone and keys fit in there and I don't feel them at all.  It's awesome.  I'll repeat again, it's awesome. That's all you need to know.  The end.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.firstmfg.com">firstmfg.com</a>
+                        </div>
+                    </div>
                 
                     <div class="card hoverable">
                         <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:0px; box-shadow:0 0 0px 0 rgba(0,0,0,0.5),0 0px 0px 0 rgba(0,0,0,0.15); margin: 0px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#none; line-height:0; margin-top:40px; padding:28.125% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BXx7gWtDR9U/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Monday moods, ya&#39;ll. &#34;I&#39;m Tired and Cranky So Shut the Fuck Up&#34; from our &#34;Another Guaranteed 40 Minute Music Set&#34; LP on Lil Deputy. Video by the exotic, erotic, electric @theartoffox * To see the dramatic climax find this on the youtubes.</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by The Love Songs (@the.love.songs) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-14T16:01:04+00:00">Aug 14, 2017 at 9:01am PDT</time></p></div></blockquote>
@@ -94,6 +122,19 @@
                    
                     <div class="card hoverable">
                         <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/streetcruiser.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">First MFG Streetcruiser</h5>
+                            <p>I saw First MFG's ad online and decided that after all these years of riding that I needed a real jacket, and a leather one.  After some research on their different styles, I decided to jump in and get the Streetcruiser and it was well worth it.  This jacket is NICE man.  I repeat:  This jacket is NICE man.  It fits me like a glove.  This is a big deal (no pun intended) because I am a big guy and it is real hard to find motorcycle gear that fits me well.  This jacket was worth every penny.  I highly recommend for the big dudes that ride, take a look at their stuff.  It's well constructed, the leather is superb, and it fits real good.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.firstmfg.com">firstmfg.com</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card hoverable">
+                        <div class="card-image">
                             <img class="responsive-img materialboxed" src="img/blog/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg">
                         </div>
                         <div class="card-content">
@@ -126,5 +167,4 @@
     </main>
     
 <?php require_once 'includes/footer.php'; ?>
-<?php require_once 'includes/contactmodal.php'; ?>
 <?php require_once 'includes/javascript.php'; ?>
