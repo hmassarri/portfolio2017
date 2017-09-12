@@ -14,22 +14,22 @@
                                 <div class="row">
                                     <div class="col s12 m6 l6">
                                         <ul class="light">
-                                            <li><a class="flink" href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a></li>
-                                            <li><a class="flink" href="https://www.uxpin.com" target="_blank">UXPin</a></li>
-                                            <li><a class="flink" href="https://material.io/" target="_blank">Material Design</a></li>
-                                            <li><a class="flink" href="https://www.materializecss.com" target="_blank">Materialize CSS</a></li>
-                                            <li><a class="flink" href="https://www.interaction-design.org/" target="_blank">Interaction Design Foundation</a></li>
-                                            <li><a class="flink" href="https://www.lynda.com" target="_blank">Lynda.com</a></li>
+                                            <li><a class="hoverable flink" href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a></li>
+                                            <li><a class="hoverable flink" href="https://www.uxpin.com" target="_blank">UXPin</a></li>
+                                            <li><a class="hoverable flink" href="https://material.io/" target="_blank">Material Design</a></li>
+                                            <li><a class="hoverable flink" href="https://www.materializecss.com" target="_blank">Materialize CSS</a></li>
+                                            <li><a class="hoverable flink" href="https://www.interaction-design.org/" target="_blank">Interaction Design Foundation</a></li>
+                                            <li><a class="hoverable flink" href="https://www.lynda.com" target="_blank">Lynda.com</a></li>
                                         </ul>
                                     </div>
                                     <div class="col s12 m6 l6">
                                         <ul class="light">
-                                            <li><a class="flink" href="https://www.biltwellinc.com/" target="_blank">Biltwell</a></li>
-                                            <li><a class="flink" href="http://www.burlybrand.com/" target="_blank">Burly Brand</a></li>
-                                            <li><a class="flink" href="https://www.firstmfg.com/" target="_blank">First MFG</a></li>
-                                            <li><a class="flink" href="http://chopperswapper13.com/" target="_blank">ChopperSwapper</a></li>
-                                            <li><a class="flink" href="http://namelessperformance.com/" target="_blank">Nameless Performance</a></li>
-                                            <li><a class="flink" href="http://www.harley-davidson.com/content/h-d/en_US/home.html" target="_blank">Harley Davidson</a></li>
+                                            <li><a class="hoverable flink" href="https://www.biltwellinc.com/" target="_blank">Biltwell</a></li>
+                                            <li><a class="hoverable flink" href="http://www.burlybrand.com/" target="_blank">Burly Brand</a></li>
+                                            <li><a class="hoverable flink" href="https://www.firstmfg.com/" target="_blank">First MFG</a></li>
+                                            <li><a class="hoverable flink" href="http://chopperswapper13.com/" target="_blank">ChopperSwapper</a></li>
+                                            <li><a class="hoverable flink" href="http://namelessperformance.com/" target="_blank">Nameless Performance</a></li>
+                                            <li><a class="hoverable flink" href="http://www.harley-davidson.com/content/h-d/en_US/home.html" target="_blank">Harley Davidson</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -43,16 +43,16 @@
                                 <div class="row">
                                     <div class="col s12 m12 l12">
                                         <ul id="playlist">
-                                            <li><a href="http://www.newretrowave.com" target="_blank"><img class="responsive-img" width="75" src="img/newretrowave.jpg" /></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/magnatron" target="_blank"><img class="responsive-img" width="75" src="img/magnatron.jpg" /></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/magnatron-20" target="_blank"><img class="responsive-img" width="75" src="img/magnatron20.jpg" /></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/nocturn" target="_blank"><img class="responsive-img" width="75" src="img/tonebox.jpg"></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/crystal-city" target="_blank"><img class="responsive-img" width="75" src="img/robertparker.jpg"></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/station-nova" target="_blank"><img class="responsive-img" width="75" src="img/waveshaper.jpg"></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/robert-parker-85-again-feat-miss-k-the-remixes" target="_blank"><img class="responsive-img" width="75" src="img/85again.jpg" /></a></li>
-                                            <li><a href="https://rossocorsarecords.bandcamp.com/album/slipstream" target="_blank"><img class="responsive-img" width="75" src="img/jordanf.jpg"></a></li>
-                                            <li><a href="https://lazerhawk.bandcamp.com/" target="_blank"><img class="responsive-img" width="75" src="img/lazerhawk.jpg"></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/return-to-alvograth" target="_blank"><img class="responsive-img" width="75" src="img/Futurecop.jpg"></a></li>
+                                            <li><a href="http://www.newretrowave.com" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/newretrowave.jpg" /></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/magnatron" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/magnatron.jpg" /></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/magnatron-20" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/magnatron20.jpg" /></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/nocturn" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/tonebox.jpg"></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/crystal-city" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/robertparker.jpg"></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/station-nova" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/waveshaper.jpg"></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/robert-parker-85-again-feat-miss-k-the-remixes" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/85again.jpg" /></a></li>
+                                            <li><a href="https://rossocorsarecords.bandcamp.com/album/slipstream" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/jordanf.jpg"></a></li>
+                                            <li><a href="https://lazerhawk.bandcamp.com/" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/lazerhawk.jpg"></a></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/return-to-alvograth" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/Futurecop.jpg"></a></li>
                                         </ul>  
                                     </div>
                                 </div>

@@ -167,6 +167,13 @@ ul#playlist li {
     color: #F06292;
 	padding-left: 5px;
 	border-left: 1px solid #90CAF9;
+    background-color: #E3F2FD;
+}
+.plink {
+    border: 1px solid #FFFFFF;
+}
+.plink:hover {
+    border: 1px solid #F06292;
 }
 
 /* =Nav, Side-Nav, Nav-Mobile

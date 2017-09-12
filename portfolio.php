@@ -437,5 +437,4 @@
     </main>
 
 <?php require_once 'includes/footer.php'; ?>
-<?php require_once 'includes/contactmodal.php'; ?>
 <?php require_once 'includes/javascript.php'; ?>
