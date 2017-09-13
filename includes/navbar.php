@@ -4,11 +4,13 @@
 				<div class="nav-wrapper container">
 					<a href="index-1.php" class="brand-logo black-text">HM</a>
 					<a href="#" data-activates="mobile-menu" class="button-collapse black-text"><i class="material-icons">menu</i></a>
+
 					<ul id="nav-mobile" class="right hide-on-med-and-down">
-						<li><a id="link1" href="blog.php" class="link black-text waves-effect waves-light">Blog</a></li>
-						<li><a id="link2" href="portfolio.php" class="link black-text waves-effect waves-light">Portfolio</a></li>
-						<li><a id="link3" href="contact.php" class="link black-text waves-effect waves-light modal-trigger">Contact</a></li>
+						<li><a id="link1" href="blog.php" class="link black-text waves-effect waves-blue">Blog</a></li>
+						<li><a id="link2" href="portfolio.php" class="link black-text waves-effect waves-blue">Portfolio</a></li>
+						<li><a id="link3" href="contact.php" class="link black-text waves-effect waves-blue">Contact</a></li>
 					</ul>
+
 					<!-- Mobile Menu -->
 					<ul id="mobile-menu" class="side-nav">
 						<li>

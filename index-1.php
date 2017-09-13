@@ -4,7 +4,7 @@
 	<main id="mainIndex" class="valign-wrapper">
         <div class="row">
             <div class="div col s12 m12 l12">
-                <img src="img/chromelogopink.png" alt="HM chrome logo" style="opacity: 1; text-align: center;" />    
+                <img src="img/chromelogopink.png" alt="HM chrome logo" style="opacity: 1; text-align: center;" class="responsive-img" />    
             </div>
         </div>
 		<!--

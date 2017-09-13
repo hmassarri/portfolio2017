@@ -7,7 +7,8 @@
 
                         <!-- Mobile Nav -->
                         <a href="#" data-activates="nav-mobile" class="button-collapse left"><i class="material-icons right">apps</i></a>
-
+                        
+                        <!--
                         <ul class="right hide-on-med-and-down">
                             <li id="blog"><a class="waves-effect waves-light" href="blog.php">Blog</a></li>
                             
@@ -22,6 +23,20 @@
                             <li id="tutorials"><a class="waves-effect waves-light" href="#">Tutorials</a></li>
                             <li id="contact"><a class="waves-effect waves-light" href="#">Contact</a></li>
                         </ul>
+                        -->
+                        
+                        <div class="fixed-action-btn toolbar">
+                            <a class="btn-floating btn-large red">
+                                <i class="large material-icons">mode_edit</i>
+                            </a>
+                            <ul>
+                                <li class="waves-effect waves-light"><a href="#!"><i class="material-icons">insert_chart</i></a></li>
+                                <li class="waves-effect waves-light"><a href="#!"><i class="material-icons">format_quote</i></a></li>
+                                <li class="waves-effect waves-light"><a href="#!"><i class="material-icons">publish</i></a></li>
+                                <li class="waves-effect waves-light"><a href="#!"><i class="material-icons">attach_file</i></a></li>
+                            </ul>
+                        </div>
+                        
                         
                         <ul id="nav-mobile" class="side-nav grey darken-4 ">
                             <li>

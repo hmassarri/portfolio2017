@@ -80,11 +80,11 @@
                 <div class="gap-xs">&nbsp;</div>
                 <div class="col s12 m12 l4 one">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/valentine.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a>Victor Valentine<br />&nbsp;</span>
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>Victor Valentine<br />&nbsp;</span>
                             <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/valentine">portfolio/valentine/</a></p>
                         </div>
                         <div class="card-reveal">
@@ -105,11 +105,11 @@
                 
                 <div class="col s12 m12 l4 two">
                     <div class="card hoverable">
-						<div class="card-image waves-effect waves-block waves-light">
+						<div class="card-image waves-effect waves-block waves-blue">
 							<img class="activator responsive-img" src="img/web/mattpyke.png">
 						</div>
 						<div class="card-content">
-							<span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a>Matt Pyke<br />&nbsp;</span>
+							<span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>Matt Pyke<br />&nbsp;</span>
 							<p><a target="_blank" href="http://www.pykescorner.com">pykescorner.com</a></p>
 						</div>
 						<div class="card-reveal">
@@ -131,11 +131,11 @@
                 
                 <div class="col s12 m12 l4 three">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/chad.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a>Chad Saharic<br />&nbsp;</span>
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>Chad Saharic<br />&nbsp;</span>
                             <p><a target="_blank" href="http://www.chadsaharic.com">chadsaharic.com</a></p>
                         </div>
                         <div class="card-reveal">
@@ -160,11 +160,11 @@
             <div class="row">
                 <div class="col s12 m12 l4 four">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-math.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />CMSR
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />CMSR
                             
                             </span>
                             <p><a target="_blank" href="http://cmsr.rutgers.edu/">cmsr.rutgers.edu/</a></p>
@@ -189,11 +189,11 @@
                 
                 <div class="col s12 m12 l4 five">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-deans.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />SAS
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />SAS
                             Deans Office</span>
                             <p><a target="_blank" href="http://sas.rutgers.edu/">sas.rutgers.edu</a></p>
                         </div>
@@ -216,11 +216,11 @@
 
                 <div class="col s12 m12 l4 six">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-convocation.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />SAS
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />SAS
                             Convocation
                             </span>
                             <p><a target="_blank" href="http://convocation.sas.rutgers.edu/">convocation.sas.rutgers.edu</a></p>
@@ -249,11 +249,11 @@
             <div class="row">
                 <div class="col s12 m12 l4 seven">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-iamdn.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />IAMDN
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />IAMDN
                             
                             </span>
                             <p><a target="_blank" href="http://iamdn.rutgers.edu/">iamdn.rutgers.edu/</a></p>
@@ -278,11 +278,11 @@
                 
                 <div class="col s12 m12 l4 eight">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-hpcc.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />HPCC
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />HPCC
                             
                             </span>
                             <p><a target="_blank" href="http://hpcc.rutgers.edu/">hpcc.rutgers.edu/</a></p>
@@ -306,11 +306,11 @@
 
                 <div class="col s12 m12 l4 nine">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-rei.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />REI
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />REI
                             
                             </span>
                             <p><a target="_blank" href="http://rei.rutgers.edu/">rei.rutgers.edu/</a></p>
@@ -339,11 +339,11 @@
             <div class="row">
                 <div class="col s12 m12 l4 one">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/sas-irw.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a><span class="red-text">Rutgers</span><br />IRW
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />IRW
                             
                             </span>
                             <p><a target="_blank" href="http://irw.rutgers.edu/">irw.rutgers.edu/</a></p>
@@ -368,11 +368,11 @@
 
                 <div class="col s12 m12 l4 two">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/unidentified.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a>theUNIDENTIFIED<br />&nbsp;
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>theUNIDENTIFIED<br />&nbsp;
                             
                             </span>
                             <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/theunidentified/">portfolio/theunidentified</a></p>
@@ -396,11 +396,11 @@
 
                 <div class="col s12 m12 l4 three">
                     <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-light">
+                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/wram.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-light blue lighten-2 right"><i class="material-icons">add</i></a>WRAM 2013<br />&nbsp;</span>
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>WRAM 2013<br />&nbsp;</span>
                             <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/wram2013/">portfolio/wram2013/</a></p>
                         </div>
                         <div class="card-reveal">
