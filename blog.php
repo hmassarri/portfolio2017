@@ -25,6 +25,32 @@
                     
                     <div class="card hoverable">
                         <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/NewRetroWaveRecords_Magnatron.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Magnatron</h5>
+                            <p>Magnatron.  One of the best Revival 80's instrumentals that I have heard in 2015.  Excellent record.  This is a definite pick up for those of who like to listen to 80s electronica done right.  I am love with these sounds.  New Retro Wave did a fantastic job putting this together.  If you notice in the footer, I put up a ton of records from New Retro Wave.  Everything they have put out so far is really worth checking out.  Pick up a copy and thank me later.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.newretrowave.com">newretrowave.com</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/dixxon-1903.png">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Dixxon 1903</h5>
+                            <p>I was turned on to these flannels by someone who knows her stuff.  I went ahead and gave these flannels a shot, even though they are a little on the pricer side, they are well made and fit me well actually.  Sold!</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.dixxonquality.com">dixxonquality.com</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card hoverable">
+                        <div class="card-image">
                             <img class="responsive-img materialboxed" src="img/blog/vans-gum.jpg">
                         </div>
                         <div class="card-content">
@@ -73,6 +99,32 @@
                 
                     <div class="card hoverable">
                         <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/haltandcatchfire.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Halt and Catch Fire</h5>
+                            <p>So when I got my operation, I was hanging at the apartment (at the time) doing a whole lot of pain management and had heard of this show but didn't have enough interest to watch it.  So I put on the mighty Netflix and let it rip.  I adore this show.  This is one of my favorite cast of characters, their interactions, the nostalgia of technology, the timeline, everything about this show is f*cking fantastic.  This is going to be the last season and I can't tell you how bummed I am however, I know for a fact it is going to go out in spectacular fashion.  I wish there were more shows like this that actually made you want to be in their world all the time.  AMC, this show was a home run.  THank you.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.amc.com/shows/halt-and-catch-fire">amc/halt-and-catch-fire</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/vans-sk8midpro-bbw.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Sk8 MidPro Black</h5>
+                            <p>Another pair for the bike.  These are awesome.  Yes, I picked up a second pair.  I might have gotten a third since like I said in  my other post, Vans likes to discontinue good shit.  The end.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.vans.com">vans.com</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card hoverable">
+                        <div class="card-image">
                             <img class="responsive-img materialboxed" src="img/blog/sharpshooter.jpg">
                         </div>
                         <div class="card-content">
@@ -119,7 +171,46 @@
                 
                 <!-- // ROW 3 Medium // -->
                 <div class="col s12 m12 l4">
+					
+                	<div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/ozark-netflix.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Ozark / on Netflix</h5>
+                            <p>Wow.  I just started watching this and instantly hooked.  Jason Bateman playing sort of like a Walter White role, laundering money for a Mexican drug cartel.  This show is pretty awesome.  It has me hooked like Breaking Bad did.  I hope that they can keep this pace up for next season, if it is renewed.  I am definitely digging this show.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="https://www.netflix.com/title/80117552">netflix/ozark</a>
+                        </div>
+                    </div> 
                    
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/dixxon-benny.png">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">Dixxon - The Benny</h5>
+                            <p>I was super happy that Dixxon came out with some short sleeves.  I got the Benny and yeah, it's a good fit and makes me look like I know what I am doing, plus I got a few compliments, especially from my lady.  Good for work and light enough for the hotter days.  Good job Dixxon.  Make more.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.dixxonquality.com">dixxonquality.com</a>
+                        </div>
+                    </div>   
+                   
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="responsive-img materialboxed" src="img/blog/vans-sk8midpro-red.jpg">
+                        </div>
+                        <div class="card-content">
+                            <h5 class="grey-text text-darken-2">SK8 MidPro Red</h5>
+                            <p>First pair of SK8 MidPro's that I got and in red.  Win.  Awesome support, these are great for riding the motorcycle.  They are now in their box for the winter because I forgot to get a backup pair and as usual vans stopped making them.  Ugh.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="http://www.vans.com">vans.com</a>
+                        </div>
+                    </div>
+                    
                     <div class="card hoverable">
                         <div class="card-image">
                             <img class="responsive-img materialboxed" src="img/blog/streetcruiser.jpg">
