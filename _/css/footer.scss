@@ -1,0 +1,61 @@
+// =Footer (sticky footer) ==================== //
+
+footer {
+    height: 100%;
+    
+    .page-footer {
+        margin-top: 0px;
+        background-color: $white;    
+    }
+}
+
+ul#playlist li {
+    display: inline !important;
+}
+.material-placeholder, .materialboxed {
+    display: inline !important;
+    margin-right: 5px;
+}
+.footer-border-top {
+    border-top: 1px solid $grayEEE;
+}
+.footer-border-bottom {
+    border-bottom: 1px solid $grayEEE;
+}
+.flink {
+	padding-left: 5px;
+    font-size: 14px;
+    color: $gray555;
+	border-left: 1px solid $white;
+	display: inline-block;
+	width: 100%;
+    
+    &:hover {
+        color: $pink-light;
+	    padding-left: 5px;
+	    border-left: 1px solid $blue-light;
+        background-color: $slate;
+    }
+}
+.plink {
+    border: 1px solid $white;
+    
+    &:hover {
+        border: 1px solid $pink-hard;    
+    }
+}
+
+// =Social Media Icons ==================== //
+.social {
+    &:link {
+        width: 50px;
+        display: inline-block;    
+    }
+    &:hover {
+        background-color: none;
+    }
+    &:active {
+        background-color: none;
+        color: none;
+    }
+}

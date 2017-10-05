@@ -1,0 +1,59 @@
+// =SideNav ==================== //
+// https://www.codeply.com/go/YSZPQp1wcB //
+nav {
+    transition-duration: 1s;
+    
+    ul a:hover {
+        background-color: rgba(0,0,0,0.11);
+    }
+    
+    .brand-logo {
+        font-size: 3.1rem;
+	font-weight: bolder;
+    }
+}
+
+.navbar-fixed {
+    z-index: 998;
+}
+
+.side-nav {
+    li > a:hover {
+        background-color: $pink-light;
+    }
+    a:hover {
+        background-color: $blue;
+    }
+    li {
+        line-height: 64px;
+    }
+    .collapsible-header:hover {
+        background-color: $blue;
+    }
+    .fixed {
+        background-color: $blue;
+    }
+    li > a > i {
+        line-height: 64px;
+    }
+    li > a > [class^="mdi-"] {
+        line-height: 64px;
+    }
+    li > a > [class*="mdi-"] {
+        line-height: 64px;
+    }
+    li > a > i.material-icons {
+        line-height: 64px;
+    }
+    .divider {
+        background-color: $gray222;
+    }
+    .subheader {
+        font-size: 110%;
+        color: $grayCCC;
+    }
+}
+
+.brand-logo:hover {
+    background-color: rgb (0, 0, 0, 0.1);
+}

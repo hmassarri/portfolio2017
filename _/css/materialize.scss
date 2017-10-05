@@ -1,0 +1,74 @@
+@import 'global';
+// =Waves ==================== //
+.waves-effect.waves-blue .waves-ripple {
+    background-color: rgba(129, 212, 250, 0.85);
+}
+
+// =Blog ==================== //
+#b-title {
+    background: url('../../img/bg.jpg') center no-repeat;
+}
+
+// =Breadcrumbs ==================== //
+.breadcrumb::before {
+    color: $white;
+    content: none;
+}
+.breadcrumb:last-child {
+    color: $pink-light;
+}
+#breadscrumbs nav{
+    box-shadow: none !important;
+}
+.breadcrumb:link {
+    width: 100px;
+    background-color: none;
+    color: $pink-light;
+    display: inline-block;
+    text-align: center;
+}
+.breadcrumb:hover {
+    background-color: $pink-light;
+    color: $white;
+	-webkit-transition: background-color .6s ease;
+	transition: background-color .6s ease;
+}
+
+// =Cards ===================== //
+.card-medium {
+    height: auto;
+}
+.card {
+    .card-action {
+        a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+            color: $pink-light;
+            text-transform: none;
+        }
+        a:hover:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+        color: $pink-hard;
+        }
+    }
+}
+.sr .one .two .three .four .five .six .seven .eight .nine {
+    visibility: hidden;
+    display: none;
+    perspective: 800px;
+}
+
+// =Dropdown ==================== //
+.dropdown-content {
+    li > a {
+        color: $black;
+    }
+    li > span {
+        color: $black;
+    }
+    li > a:hover {
+        background-color: $gray666;
+        color: $white;
+    }
+    li > span:hover {
+        background-color: $gray666;
+        color: $white;
+    }
+}
