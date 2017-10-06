@@ -46,7 +46,7 @@
                                             <li><a href="http://www.newretrowave.com" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/newretrowave.jpg" /></a></li>
                                             <li><a href="https://newretrowave.bandcamp.com/album/magnatron" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/magnatron.jpg" /></a></li>
                                             <li><a href="https://newretrowave.bandcamp.com/album/magnatron-20" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/magnatron20.jpg" /></a></li>
-                                            <li><a href="https://newretrowave.bandcamp.com/album/nocturn" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/tonebox.jpg"></li>
+                                            <li><a href="https://newretrowave.bandcamp.com/album/nocturn" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/tonebox.jpg"></a></li>
                                             <li><a href="https://newretrowave.bandcamp.com/album/crystal-city" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/robertparker.jpg"></a></li>
                                             <li><a href="https://newretrowave.bandcamp.com/album/station-nova" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/waveshaper.jpg"></a></li>
                                             <li><a href="https://newretrowave.bandcamp.com/album/robert-parker-85-again-feat-miss-k-the-remixes" target="_blank"><img class="hoverable plink responsive-img" width="75" src="img/85again.jpg" /></a></li>
