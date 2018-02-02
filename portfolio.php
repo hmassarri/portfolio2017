@@ -85,7 +85,7 @@
                         </div>
                         <div class="card-content">
                             <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>Victor Valentine<br />&nbsp;</span>
-                            <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/valentine">portfolio/valentine/</a></p>
+                            <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/valentine">valentine/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2">Victor Valentine<i class="material-icons right">close</i></span>
@@ -140,9 +140,9 @@
                             <p><a target="_blank" href="http://sas.rutgers.edu/">sas.rutgers.edu</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />SAS
-                            Deans Office<i class="material-icons right">close</i></span>
-                            <p>Joomla template and modules custom built for SAS</p>
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> SAS
+                            <i class="material-icons right">close</i></span>
+                            <p>Joomla template and modules custom built for SAS Dean's Office</p>
                             <p>
                                 <ul>
                                     <li>PHP + MySQL</li>
@@ -176,7 +176,7 @@
                             <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> CMSR
                             <i class="material-icons right">close</i>
                             </span>
-                            <p>Joomla template and modules custom built for SAS</p>
+                            <p>Joomla template and modules custom built for the Rutgers Center for Mathematical Sciences Research</p>
                             <p>
                                 <ul>
                                     <li>PHP + MySQL</li>
@@ -202,10 +202,10 @@
                             <p><a target="_blank" href="http://iamdn.rutgers.edu/">iamdn.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IAMDN
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> IAMDN
                             <i class="material-icons right">close</i>
                             </span>
-                            <p>Joomla template and modules custom built for SAS</p>
+                            <p>Joomla template and modules custom built for Rutgers Institute for Advanced Materials and Nanotechnology</p>
                             <p>
                                 <ul>
                                     <li>PHP + MySQL</li>
@@ -228,12 +228,12 @@
                             <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />SAS
                             Convocation
                             </span>
-                            <p><a target="_blank" href="http://convocation.sas.rutgers.edu/">convocation.sas.rutgers.edu</a></p>
+                            <p><a target="_blank" href="http://convocation.sas.rutgers.edu/">sas.rutgers.edu</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />SAS
-                            Deans Office<i class="material-icons right">close</i></span>
-                            <p>Joomla template and modules custom built for SAS</p>
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> SAS
+                            <i class="material-icons right">close</i></span>
+                            <p>Joomla template and modules custom built for SAS Convocation</p>
                             <p>
                                 <ul>
                                     <li>PHP + MySQL</li>
@@ -264,10 +264,10 @@
                             <p><a target="_blank" href="http://irw.rutgers.edu/">irw.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IRW
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> IRW
                             <i class="material-icons right">close</i>
                             </span>
-                            <p>Hand coded site using Bootstrap and jQuery</p>
+                            <p>Hand coded site using Bootstrap and jQuery for the Rutgers Institute for Research on Women</p>
                             <p>
                                 <ul>
                                     <li>Joomla</li>
@@ -293,10 +293,10 @@
                             <p><a target="_blank" href="http://hpcc.rutgers.edu/">hpcc.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />HPCC
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> HPCC
                             <i class="material-icons right">close</i>
                             </span>
-                            <p>Hand coded site using Bootstrap and jQuery</p>
+                            <p>Hand coded site using Bootstrap and jQuery for Rutgers High-Performance Community Cluster</p>
                             <p>
                                 <ul>
                                     <li>HTML5</li>
@@ -321,10 +321,10 @@
                             <p><a target="_blank" href="http://rei.rutgers.edu/">rei.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />REI
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span> REI
                             <i class="material-icons right">close</i>
                             </span>
-                            <p>Custom template for Joomla</p>
+                            <p>Custom template for Joomla built for Rutgers Energy Insitute</p>
                             <p>
                                 <ul>
                                     <li>Joomla</li>
@@ -351,10 +351,10 @@
                             <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>theUNIDENTIFIED<br />&nbsp;
                             
                             </span>
-                            <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/theunidentified/">portfolio/theunidentified</a></p>
+                            <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/theunidentified/">theunidentified</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2">theUNIDENTIFIED
+                            <span class="card-title grey-text text-darken-2">UNIDENTIFIED
                             <i class="material-icons right">close</i>
                             </span>
                             <p>Hand coded site using PHP and jQuery</p>
@@ -377,7 +377,7 @@
                         </div>
                         <div class="card-content">
                             <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>WRAM 2013<br />&nbsp;</span>
-                            <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/wram2013/">portfolio/wram2013/</a></p>
+                            <p><a target="_blank" href="http://www.hugomassarri.com/portfolio/wram2013/">wram2013/</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2">WRAM 2013<i class="material-icons right">close</i></span>
