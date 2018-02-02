@@ -132,21 +132,24 @@
                 <div class="col s12 m12 l4 three">
                     <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-blue">
-                            <img class="activator responsive-img" src="img/web/chad.png">
+                            <img class="activator responsive-img" src="img/web/sas-deans.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a>Chad Saharic<br />&nbsp;</span>
-                            <p><a target="_blank" href="http://www.chadsaharic.com">chadsaharic.com</a></p>
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />SAS
+                            Deans Office</span>
+                            <p><a target="_blank" href="http://sas.rutgers.edu/">sas.rutgers.edu</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2">Chad Saharic<i class="material-icons right">close</i></span>
-                            <p>A freelance graphic designer that I know needed some help building his online presence.</p>
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />SAS
+                            Deans Office<i class="material-icons right">close</i></span>
+                            <p>Joomla template and modules custom built for SAS</p>
                             <p>
                                 <ul>
-                                    <li>HTML5</li>
-                                    <li>CSS</li>
+                                    <li>PHP + MySQL</li>
+                                    <li>Joomla</li>
+                                    <li>Gantry</li>
                                     <li>jQuery</li>
-                                    <li>Photoshop</li>
+                                    <li>Bootstrap</li>
                                 </ul>
                             </p>
                         </div>
@@ -190,16 +193,18 @@
                 <div class="col s12 m12 l4 five">
                     <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-blue">
-                            <img class="activator responsive-img" src="img/web/sas-deans.png">
+                            <img class="activator responsive-img" src="img/web/sas-iamdn.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />SAS
-                            Deans Office</span>
-                            <p><a target="_blank" href="http://sas.rutgers.edu/">sas.rutgers.edu</a></p>
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />IAMDN
+                            
+                            </span>
+                            <p><a target="_blank" href="http://iamdn.rutgers.edu/">iamdn.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />SAS
-                            Deans Office<i class="material-icons right">close</i></span>
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IAMDN
+                            <i class="material-icons right">close</i>
+                            </span>
                             <p>Joomla template and modules custom built for SAS</p>
                             <p>
                                 <ul>
@@ -250,24 +255,24 @@
                 <div class="col s12 m12 l4 seven">
                     <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-blue">
-                            <img class="activator responsive-img" src="img/web/sas-iamdn.png">
+                            <img class="activator responsive-img" src="img/web/sas-irw.png">
                         </div>
                         <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />IAMDN
+                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />IRW
                             
                             </span>
-                            <p><a target="_blank" href="http://iamdn.rutgers.edu/">iamdn.rutgers.edu/</a></p>
+                            <p><a target="_blank" href="http://irw.rutgers.edu/">irw.rutgers.edu/</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IAMDN
+                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IRW
                             <i class="material-icons right">close</i>
                             </span>
-                            <p>Joomla template and modules custom built for SAS</p>
+                            <p>Hand coded site using Bootstrap and jQuery</p>
                             <p>
                                 <ul>
-                                    <li>PHP + MySQL</li>
                                     <li>Joomla</li>
-                                    <li>Gantry</li>
+                                    <li>HTML5</li>
+                                    <li>CSS3</li>
                                     <li>jQuery</li>
                                     <li>Bootstrap</li>
                                 </ul>
@@ -340,35 +345,6 @@
                 <div class="col s12 m12 l4 one">
                     <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-blue">
-                            <img class="activator responsive-img" src="img/web/sas-irw.png">
-                        </div>
-                        <div class="card-content">
-                            <span class="activator grey-text text-darken-4"><a class="btn-floating btn-large waves-effect waves-pink blue lighten-2 right"><i class="material-icons">expand_more</i></a><span class="red-text">Rutgers</span><br />IRW
-                            
-                            </span>
-                            <p><a target="_blank" href="http://irw.rutgers.edu/">irw.rutgers.edu/</a></p>
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-2"><span class="red-text">Rutgers</span><br />IRW
-                            <i class="material-icons right">close</i>
-                            </span>
-                            <p>Hand coded site using Bootstrap and jQuery</p>
-                            <p>
-                                <ul>
-                                    <li>Joomla</li>
-                                    <li>HTML5</li>
-                                    <li>CSS3</li>
-                                    <li>jQuery</li>
-                                    <li>Bootstrap</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col s12 m12 l4 two">
-                    <div class="card hoverable">
-                        <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/unidentified.png">
                         </div>
                         <div class="card-content">
@@ -394,7 +370,7 @@
                     </div>
                 </div>
 
-                <div class="col s12 m12 l4 three">
+                <div class="col s12 m12 l4 two">
                     <div class="card hoverable">
                         <div class="card-image waves-effect waves-block waves-blue">
                             <img class="activator responsive-img" src="img/web/wram.png">
