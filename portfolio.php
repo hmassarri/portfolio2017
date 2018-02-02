@@ -381,7 +381,7 @@
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-2">WRAM 2013<i class="material-icons right">close</i></span>
-                            <p>Hand coded site using Bootstrap</p>
+                            <p>Hand coded site using Bootstrap for the Westchester Radio Aero Modelers 2013 show</p>
                             <p>
                                 <ul>
                                     <li>HTML5</li>
